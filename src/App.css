@@ -2,6 +2,14 @@
   text-align: center;
 }
 
+.blog {
+  background-color: #61dafb;
+  display: flex;
+  color: white;
+  padding: 20px;
+  width: 100%;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
